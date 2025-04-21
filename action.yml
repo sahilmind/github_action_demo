@@ -1,6 +1,10 @@
 name: 'Hello world Sahil Action'
 description: 'Greet someone and record the time'
 
+branding:
+  icon: 'activity'
+  color: 'green'
+
 inputs:
   who-to-greet:
     description: 'Who to greet'
